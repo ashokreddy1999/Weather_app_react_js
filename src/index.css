@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+input[type="submit"]{
+  padding: 10px 10px 10px 10px;
+  background-color: greenyellow;
+}
+input[type="text"]{
+  background-color: rgb(22, 88, 77);
+}
